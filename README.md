@@ -13,6 +13,10 @@ breadboard x1
 
 HC-SR04 ultrasonic sensor x3
 
+x2 gear motors
+
+x1 Arduino car chassis
+
 Example of maze Solver doing its thing: https://youtu.be/MwYncLcmyl8
 
 Circuit diagram:
